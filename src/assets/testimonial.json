@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "01",
+        "name" : "Client 01",
+        "img" : "https://imageio.forbes.com/specials-images/imageserve/1023149898/0x0.jpg?format=jpg&crop=8688,4887,x0,y242,safe&width=1200",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id" : "02",
+        "name" : "Client 02",
+        "img" : "https://www.constantcontact.com/blog/wp-content/uploads/2021/12/Social-How-to-Create-a-Customer-Avatar.jpg",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id" : "03",
+        "name" : "Client 02",
+        "img" : "https://www.constantcontact.com/blog/wp-content/uploads/2021/12/Social-How-to-Create-a-Customer-Avatar.jpg",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id" : "04",
+        "name" : "Client 02",
+        "img" : "https://www.constantcontact.com/blog/wp-content/uploads/2021/12/Social-How-to-Create-a-Customer-Avatar.jpg",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id" : "05",
+        "name" : "Client 03",
+        "img" : "https://imageio.forbes.com/specials-images/imageserve/5efb48cd3855ae0007ddf995/0x0.jpg?format=jpg&width=1200",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+]
