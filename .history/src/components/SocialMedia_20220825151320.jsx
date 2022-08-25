@@ -48,7 +48,7 @@ const links = [
 
 const SocialMedia = () => {
   return (
-    <div className='hidden lg:flex text-white flex flex-col fixed top-[35%] left-0'>
+    <div className='hidden lg text-white flex flex-col fixed top-[35%] left-0'>
         <ul>
             {links.map(({id, child, style, href, download})=>{
                 return(
