@@ -52,7 +52,7 @@ const SocialMedia = () => {
         <ul>
             {links.map(({id, child, style, href, download})=>{
                 return(
-                    <li key={id} className={`flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 hover:rounded-md w-40 bg-gray-500 cursor-pointer h-14 ${style}`}>
+                    <li key={id} className={'flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 hover:rounded-md w-40 bg-gray-500 cursor-pointer h-14'+""+style}>
                         <a href={href} 
                             className='flex justify-between items-center w-full px-4'
                             download={download}
