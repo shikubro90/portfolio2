@@ -24,7 +24,7 @@ import React from 'react'
         },
         {
             id: 6,
-            src : "https://mui.com/static/logo.png"
+            src : "https://cdn.dribbble.com/users/1858541/screenshots/14532125/media/e3ef16a597cb3a1000914d7fe9d70b77.png?compress=1&resize=400x300&vertical=top"
         }
     ]
 

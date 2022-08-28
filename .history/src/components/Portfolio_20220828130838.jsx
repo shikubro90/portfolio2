@@ -8,23 +8,23 @@ import React from 'react'
         },
         {
             id: 2,
-            src : "https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo"
+            src : "https://cdn.dribbble.com/users/1858541/screenshots/14532125/media/e3ef16a597cb3a1000914d7fe9d70b77.png?compress=1&resize=400x300&vertical=top"
         },
         {
             id: 3,
-            src : "https://media-exp1.licdn.com/dms/image/C4E12AQG5WavbbxI8QQ/article-cover_image-shrink_720_1280/0/1529925253756?e=1664409600&v=beta&t=WOjIEcObjh_hZfnD0SWuSlHkUUC4hjJ1k7wCvZzDb6g"
+            src : "https://cdn.dribbble.com/users/1858541/screenshots/14532125/media/e3ef16a597cb3a1000914d7fe9d70b77.png?compress=1&resize=400x300&vertical=top"
         },
         {
             id: 4,
-            src : "https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/701ee/react.jpg"
+            src : "https://cdn.dribbble.com/users/1858541/screenshots/14532125/media/e3ef16a597cb3a1000914d7fe9d70b77.png?compress=1&resize=400x300&vertical=top"
         },
         {
             id: 5,
-            src : "https://cdn.dribbble.com/users/118986/screenshots/1221641/screen_shot_2013-09-04_at_12.13.21_am.png"
+            src : "https://cdn.dribbble.com/users/1858541/screenshots/14532125/media/e3ef16a597cb3a1000914d7fe9d70b77.png?compress=1&resize=400x300&vertical=top"
         },
         {
             id: 6,
-            src : "https://mui.com/static/logo.png"
+            src : "https://cdn.dribbble.com/users/1858541/screenshots/14532125/media/e3ef16a597cb3a1000914d7fe9d70b77.png?compress=1&resize=400x300&vertical=top"
         }
     ]
 
@@ -46,7 +46,7 @@ const Portfolio = () => {
                 portfolio.map(({id, src})=>{
                     return(     
                         <div key={id} className='shadow-md shadow-gray-600 rounded-lg cursor-pointer'>
-                            <img src={src} alt="" className='w-full duration-200 rounded-md hover:scale-105' />
+                            <img src={src} alt="" className='w duration-200 rounded-md hover:scale-105' />
                             <div>
                                 <button className='w-1/2 px-6 py-3 duration-200'>Demo</button>
                                 <button className='w-1/2 px-6 py-3 duration-200'>Code</button>

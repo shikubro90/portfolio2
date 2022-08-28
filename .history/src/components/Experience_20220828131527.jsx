@@ -25,22 +25,15 @@ const experience = [
   {
     id: 3,
     src:
-      'https://cdn.dribbble.com/users/118986/screenshots/1221641/screen_shot_2013-09-04_at_12.13.21_am.png',
-    title: 'Tailwind',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPHU1ItkUp9c9TGvejp__8bt0L7AEunfTNqSf8m0OPAjEE-DWNQpQLciDI2cUteShjsg&usqp=CAU',
+    title: 'REACT',
     style: 'shadow-blue-600',
   },
   {
     id: 4,
     src:
-      'https://mui.com/static/logo.png',
-    title: 'Material UI',
-    style: 'shadow-sky-400',
-  },
-  {
-    id: 5,
-    src:
-      'https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/701ee/react.jpg',
-    title: 'React',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPHU1ItkUp9c9TGvejp__8bt0L7AEunfTNqSf8m0OPAjEE-DWNQpQLciDI2cUteShjsg&usqp=CAU',
+    title: 'Tailwind',
     style: 'shadow-sky-400',
   },
 ]

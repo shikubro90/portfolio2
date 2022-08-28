@@ -39,8 +39,8 @@ const experience = [
   {
     id: 5,
     src:
-      'https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/701ee/react.jpg',
-    title: 'React',
+      'https://mui.com/static/logo.png',
+    title: 'Material UI',
     style: 'shadow-sky-400',
   },
 ]
